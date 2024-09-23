@@ -1,4 +1,4 @@
-# BlockBattle: Next-Gen MULTICHAIN Multiplayer Gaming
+# CROSS Battle: Next-Gen MULTICHAIN Multiplayer Gaming
 
 ## Overview
 
