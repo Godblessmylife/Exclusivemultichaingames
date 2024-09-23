@@ -1,7 +1,5 @@
 # BlockBattle: Next-Gen MULTICHAIN Multiplayer Gaming
 
-![Header](https://github.com/vmmuthu31/BlockBattle-Dev/assets/111880621/672b148a-1d4c-4d00-b56e-b85a131aa95b)
-
 ## Overview
 
 Welcome to BlockBattle, an innovative multiplayer survival shooting game built on blockchain technology. BlockBattle is more than just a game; it's an immersive journey into a future where gaming meets the security and transparency of blockchain.
