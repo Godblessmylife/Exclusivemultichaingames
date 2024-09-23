@@ -1,4 +1,4 @@
-# BlockBattle: Next-Gen MULTICHAIN Multiplayer Gaming
+# CROSS Battle: Next-Gen MULTICHAIN Multiplayer Gaming
 
 ## Overview
 
@@ -38,43 +38,6 @@ Test your skills in fast-paced, timer-driven challenges. Each match is a race ag
 - Tailwind CSS
 - Three.js and Blender for 3D graphics
 - Redux for state management
-- Git for version control
-
-## Future Roadmap
-
-BlockBattle is committed to continually evolving. Our roadmap includes:
-
-### Advanced Analytics and Security Integration
-
-We plan to integrate sophisticated analytics tools and enhance security features to offer an even more robust gaming experience. Stay tuned for updates!
-
-### Bounties
-
-### Celo Deployment 
-
-![Celo_New_Logo_Jan_2023](https://github.com/vmmuthu31/BlockBattle-Dev/assets/111880621/94fde801-4f82-4457-b8cf-49dd67458f5f)
-
-0xaA366318f39E92b479520D83d918DE57a156eB82
-
-### Mantle Deployment 
-
-![image](https://github.com/vmmuthu31/BlockBattle-Dev/assets/111880621/4ae43e36-0ff1-4e9e-80da-4ba97891aefe)
-
-0xa0b0A5f6FF1FE8141F81061cB34B6218F0591C50
-
-### Polygon POS Deployment
-
-![image](https://github.com/vmmuthu31/BlockBattle-Dev/assets/111880621/c8e18a6a-e71c-4b0d-bc23-a83d602bdc8d)
-
-0x4Af1d4bd8417E4b4A2bf9d7dB82c7145a8C03255
-
-### Scroll Deployment
-
-![image](https://github.com/vmmuthu31/BlockBattle-Dev/assets/111880621/5dd74f3e-8c56-4ffa-bc92-cb8b29adc606)
-
-0xD17ce37D70e499681E2C2a5f574DE1020a7a8a1F
-
-###Screenshots
-
+- Git for version control)
 
 
